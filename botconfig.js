@@ -21,8 +21,8 @@ module.exports = {
   
   Presence: {
     status: "online", // You can show online, idle, and dnd
-    name: "Music", // The message shown
-    type: "LISTENING", // PLAYING, WATCHING, LISTENING, STREAMING
+    name: "Bohemian Rhapsody", // The message shown
+    type: "WATCHING", // PLAYING, WATCHING, LISTENING, STREAMING
   },
 
   //Lavalink
